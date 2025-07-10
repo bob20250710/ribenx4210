@@ -16,4 +16,4 @@
 
 SEO优化成为站点的重要组成部分。通过精心设计的页面结构、关键词设置和外部链接建设，平台能够提升搜索引擎友好度，从而获得更多的自然流量。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/bob20250710/ribenx4210 ）</span>
